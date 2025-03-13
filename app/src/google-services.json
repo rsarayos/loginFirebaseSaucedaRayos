@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420082359618",
+    "project_id": "ejemplologin-82b2c",
+    "storage_bucket": "ejemplologin-82b2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420082359618:android:ad9a860907cc83b7287cdb",
+        "android_client_info": {
+          "package_name": "sauceda.rayos.practicaautenticacionsaucedar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVmg4H_W9bNJjTseKSQp4crymih40mBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
